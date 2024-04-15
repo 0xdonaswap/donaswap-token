@@ -1,0 +1,8 @@
+# hardhat modules
+node_modules
+
+# compiled cache
+cache
+
+# compiled artifacts
+artifacts
